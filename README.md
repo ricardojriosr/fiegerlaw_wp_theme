@@ -1,0 +1,4 @@
+- Added Custom Post to the Theme
+- Added Menu for Header and Footer (Must be created and Customized)
+- Added Page Template called "Attorny Page" to list the Attorneys and the content
+- Added Styling for Desktop
